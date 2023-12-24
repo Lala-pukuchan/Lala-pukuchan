@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on RNCP Level 7 Data and Database Architecture at 42Paris.
 
-🌱 These are the works I've done.
+🌱 These are the works I've done in Common Core.
 - [Libft](https://github.com/Lala-pukuchan/libft)
   - Contents: I started with creating a C language library as my first project. It was an exercise in reinventing the wheel, creating a library with limited functions.
   - Example: Implemented a function similar to C's strlen but named ft_strlen, without using the original strlen.
