@@ -3,12 +3,12 @@
 🔭 I’m currently working on RNCP Level 7 Data and Database Architecture at 42Paris.
 
 🌱 These are the works I've done.
-- Libft
+- [Libft](https://github.com/Lala-pukuchan/libft)
   - Introduction: I started with creating a C language library as my first project. It was an exercise in reinventing the wheel, creating a library with limited functions.
   - Example: Implemented a function similar to C's strlen but named ft_strlen, without using the original strlen.
   - Impact: These functions were useful in later assignments, feeling like acquiring new tools in an RPG.
   - Learning: Covered basics of C, header files, Makefiles, coding standards, and handling edge cases. Learning was more through self-discovery and collaboration than direct teaching.
-Get Next Line
+- Get Next Line
 Project: Developed a function in C named get_next_line to read a file line by line, enhancing understanding of file handling in C.
 Printf Reimplementation
 Challenge: Reimplemented the printf function, a step up in difficulty.
