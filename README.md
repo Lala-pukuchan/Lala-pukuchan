@@ -34,7 +34,7 @@
   - Technologies: Docker
   - Challenge: Creating Docker image from scratch. Initially found environmental setup tasks challenging but eventually became more comfortable with Docker.
 
-- Transcendence
+- [Transcendence](https://github.com/Lala-pukuchan/transcendence)
   - Contents: Developed a comprehensive web application capable of gaming and chatting, in a 3-person team.
   - Technologies: Utilized NestJS, Prisma for the backend, and React for the frontend.
   - Challenge: Combined all previously learned skills and required researching and implementing necessary technologies from scratch.
