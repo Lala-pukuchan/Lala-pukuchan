@@ -25,7 +25,7 @@
 - [C++ Module (CPP-module)](https://github.com/Lala-pukuchan/cpp)
   - Contents: Completed numerous small assignments to learn the basics of C++.
 
-- Web Serv
+- [Web Serv](https://github.com/Lala-pukuchan/WebServ)
   - Contents: nginx Reimplementation. Reimplemented nginx using C++, a team project.
   - Learning: Focused on understanding and implementing the intricacies of web server functionality and protocols.
 
