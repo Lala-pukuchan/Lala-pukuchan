@@ -2,6 +2,14 @@
 
 🔭 I’m currently working on RNCP Level 7 Data and Database Architecture at 42Paris.
 
+- [ML_Module](https://github.com/Lala-pukuchan/ML_Module)
+  - Contents: Basic Calculation on Supervised Learning such as linear regression and Logistic Regression. This cource is created based on [this cource on coursera](https://www.coursera.org/learn/machine-learning).
+- [ft_linear_regression](https://github.com/Lala-pukuchan/ft_linear_regression)
+  - Contents: Implementation of Gradient Descent Model. Currently Working on.
+
+- [Camagru](https://github.com/Lala-pukuchan/camagru)
+  - Contents: Implementation of Instagram like Web application with Php.
+
 🌱 These are the works I've done in Common Core.
 - [Libft](https://github.com/Lala-pukuchan/libft)
   - Contents: I started with creating a C language library as my first project. It was an exercise in reinventing the wheel, creating a library with limited functions.
