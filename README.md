@@ -3,7 +3,7 @@
 🔭 I’m currently working on RNCP Level 7 Data and Database Architecture at 42Paris.
 
 - [ML_Module](https://github.com/Lala-pukuchan/ML_Module)
-  - Contents: Basic Calculation on Supervised Learning such as linear regression and Logistic Regression. This cource is created based on [this cource on coursera](https://www.coursera.org/learn/machine-learning).
+  - Contents: Modules for Supervised Learning such as linear regression and Logistic Regression. The modules systematically progress from performing vectorized calculations to implementing ridge regression, a technique that helps prevent overfitting. This cource is created based on [this cource on coursera](https://www.coursera.org/learn/machine-learning).
 - [ft_linear_regression](https://github.com/Lala-pukuchan/ft_linear_regression)
   - Contents: Implementation of Gradient Descent Model for linear regression.
 - [dslr](https://github.com/Lala-pukuchan/dslr)
