@@ -6,6 +6,8 @@
   - Contents: Basic Calculation on Supervised Learning such as linear regression and Logistic Regression. This cource is created based on [this cource on coursera](https://www.coursera.org/learn/machine-learning).
 - [ft_linear_regression](https://github.com/Lala-pukuchan/ft_linear_regression)
   - Contents: Implementation of Gradient Descent Model. Currently Working on.
+- [dslr](https://github.com/Lala-pukuchan/dslr)
+  - Contents: Visualizing data for selecting the useful input data for training the model. Implementation of Gradient Descent Model for logistic Regression.
 
 - [Camagru](https://github.com/Lala-pukuchan/camagru)
   - Contents: Implementation of Instagram like Web application with Php.
