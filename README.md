@@ -7,7 +7,7 @@
 - [ft_linear_regression](https://github.com/Lala-pukuchan/ft_linear_regression)
   - Contents: Implementation of Gradient Descent Model for linear regression.
 - [dslr](https://github.com/Lala-pukuchan/dslr)
-  - Contents: Visualizing data for selecting the useful input data for training the model. Implementation of Gradient Descent Model for logistic Regression.
+  - Contents: Visualizing data for selecting the useful input data for training the model. Implementation of Gradient Descent Model for logistic Regression. Also, Mini-Batch and Stochastic Gradient Descent models are implemented.
 
 - [Camagru](https://github.com/Lala-pukuchan/camagru)
   - Contents: Implementation of Instagram like Web application with Php.
